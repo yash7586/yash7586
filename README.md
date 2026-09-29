@@ -1,27 +1,26 @@
 # Hi 👋, I'm Yash Raj Singh
 
-### Full Stack Developer | React.js | Node.js | TypeScript | AI
+### SDE-1 @ TenseAI | Full Stack Developer | React.js | Node.js | TypeScript | AI
 
-I'm a Computer Science Engineer passionate about building modern,
-scalable web applications and AI-powered products.
+I'm a Software Development Engineer (SDE-1) at **TenseAI**, with
+6 months of professional software development experience.
 
-I enjoy turning ideas into real-world products using modern web
-technologies and AI.
+I work on building scalable web applications, SaaS products,
+AI-powered features, APIs and integrations.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering Graduate
-- 💻 Full Stack Developer
-- ⚛️ Building applications with React.js & Next.js
-- 🚀 Backend development with Node.js & Express.js
-- 🤖 Exploring AI, LLMs & Agentic AI
+- 💼 SDE-1 at TenseAI
+- 🚀 6+ months of professional software development experience
+- ⚛️ Full Stack Developer
+- 💻 React.js, Next.js, Node.js & TypeScript
+- 🤖 Working with AI, LLMs & Agentic AI
+- 🔗 Working with APIs and third-party integrations
 - 🧠 Currently improving JavaScript, DSA & System Design
 - 🔨 Building real-world SaaS and AI products
 - 📍 India
-
----
 
 ## 🛠️ Tech Stack
 

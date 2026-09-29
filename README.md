@@ -127,3 +127,9 @@ DSA
 System Design
         ↓
 AI & Agentic AI
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Raj%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-raj-singh-23256b269/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-yash7586-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash7586)

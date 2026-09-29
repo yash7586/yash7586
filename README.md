@@ -8,10 +8,14 @@ I'm a Software Development Engineer (SDE-1) at **TenseAI**, with
 I work on building scalable web applications, SaaS products,
 AI-powered features, APIs and integrations.
 
+## 📊 My Contributions
+
+<img src="./profile/contributions.svg" width="100%" alt="GitHub Contribution Graph">
+
+
 ---
 
 ## 👨‍💻 About Me
-
 - 💼 SDE-1 at TenseAI
 - 🚀 6+ months of professional software development experience
 - ⚛️ Full Stack Developer
